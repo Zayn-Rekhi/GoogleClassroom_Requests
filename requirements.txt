@@ -115,7 +115,7 @@ typed-ast==1.4.0
 tzlocal==2.0.0
 Unipath==1.1
 uritemplate==3.0.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.17
 w3lib==1.21.0
 wcwidth==0.1.7
