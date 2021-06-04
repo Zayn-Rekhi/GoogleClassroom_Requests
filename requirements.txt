@@ -30,7 +30,7 @@ decorator==4.4.1
 distlib==0.3.0
 dj-database-url==0.5.0
 djangify==1.0.0
-Django==2.2.11
+Django==2.2.21
 django-background-tasks==1.2.5
 django-common-helpers==0.9.2
 django-compat==1.0.15
